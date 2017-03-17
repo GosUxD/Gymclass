@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Gymclass</string>
+    <string name="action_settings">Setting</string>
+    <string name="facebook_app_id">12345678910121314</string>
+
+
+    <string name="welcom_head_01">Train at the best gyms in the city</string>
+    <string name="welcom_content_01">Get stuff done with or without an internet connection.</string>
+    <string name="welcom_head_02">Share and edit together</string>
+    <string name="welcom_content_02">Write on your own or invite more people to contribute.</string>
+    <string name="welcom_head_03">Automatically save to the web</string>
+    <string name="welcom_content_03">Never lose your progress, so you can keep working from any computer or device.</string>
+    <string name="welcom_head_04">Edit Excel spreadsheets</string>
+    <string name="welcom_content_04">Open, edit, and save Excel files - all within Sheets.</string>
+    <string name="packages_hint">Currently No Packages Are Available, Please Try Later...</string>
+
+    <string name="intro_text_1">Kiss goodbye to hassles of <b>public</b> transport.</string>
+    <string name="intro_text_2">Save on <b>fuel cost</b> and save pollution.</string>
+    <string name="intro_text_3">It\'s time <b>to start</b> sharing &amp; earning.</string>
+    <string name="login_explanation">How would you like to sign in?</string>
+    <string name="login_welcome">Welcome</string>
+    <string name="login_facebook">Log in with Facebook </string>
+    <string name="login_email_adress">Email Address</string>
+    <string name="login_hint">.......</string>
+    <string name="login_submit">Sign in</string>
+    <string name="loging_reset_password">Password</string>
+    <string name="login_register">Register</string>
+    <string name="signup_register">Register</string>
+    <string name="signup_terms">By registering you agree to\n our terms and conditions</string>
+    <string name="sign_up_email">Enter your email address</string>
+    <string name="sign_up_first_name">Enter your first name</string>
+    <string name="sign_up_last_name">Enter your last name</string>
+    <string name="sign_up_date">Enter your date of birth</string>
+    <string name="sign_up_password">Enter your password</string>
+    <string name="sign_up_confirm">Confirm your password</string>
+    <string name="sign_up_submit">Register</string>
+    <string name="pick_up_location">Pick Location</string>
+    <string name="login_signup">Create Account</string>
+    <string name="intro_hint_text">Train at the \n best gyms \n in the city</string>
+
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="countries">
+        <item>India</item>
+        <item>Australia</item>
+        <item>Dubai</item>
+        <item>USA</item>
+        <item>ABC</item>
+        <item>XYZ</item>
+        <item>ABCD</item>
+        <item>Canada</item>
+        <item>Rasia</item>
+    </string-array>
+</resources>

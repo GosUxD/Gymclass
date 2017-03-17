@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008051</color>
+    <color name="colorPrimaryDark">#008051</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="colorTextSecondary">#b2ffffff</color>
+    <color name="colorTextHint">#7fffffff</color>
+    <color name="colorTextDividers">#1effffff</color>
+    <color name="colorGreen">#008051</color>
+    <color name="text_selected">#FFFFFF</color>
+    <color name="signinbutton">#00100a</color>
+    <color name="colorTextPrimaryDark">#de000000</color>
+    <color name="colorTextSecondaryDark">#8a000000</color>
+    <color name="colorTextHintDark">#FFFFFF</color>
+    <color name="colorTextDividersDark">#FFFFFF</color>
+</resources>
